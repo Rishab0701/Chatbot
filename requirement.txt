@@ -1,0 +1,7 @@
+uvicorn
+fastapi[all]
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+ollama
